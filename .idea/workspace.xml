@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62be32e-d6bd-4472-9a03-beae7fb95b58" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BMICal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BMICal/test_BMICal.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMICal/test_BMICal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
